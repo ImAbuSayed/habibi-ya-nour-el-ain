@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> import os
+> lyrics = """
+> يا حبيبي يا نور العين، قلبي يناديك بلهفة
+> روحي مشتاقة إليك، في كل لحظة وصدفة
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**

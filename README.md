@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/habibi-ya-nour-el-ain/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Habibi Ya Nour El Ain](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

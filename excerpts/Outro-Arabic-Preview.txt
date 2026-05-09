@@ -1,0 +1,10 @@
+[Male]
+يا نور العين ابقي، في حضن هذا الليل
+حبنا سيبقى نجما، يضيء لنا الدليل
+[Female]
+صوتك صدى في روحي، يعزف أجمل الألحان
+نحن في عشق دائم، في كل زمان ومكان
+"""
+
+with open("habibi-ya-nour-el-ain-private/lyric-raw.txt", "w", encoding="utf-8") as f:
+    f.write(lyrics)

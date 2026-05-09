@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Habibi Ya Nour El Ain
+
+This log tracks the cryptographic history and versioning for the song **Habibi Ya Nour El Ain** (habibi-ya-nour-el-ain).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:24:21.322850 | `v1` | `b0470a28443bd67cd8f3a149f5b71a3864d1c72dc0cadab6f62583fc89df3d26` | `ebe7092f3e078ccdd9a1832342195138713bedcc646348fa1a008709d2372eb4` | `2026-05-09_habibi-ya-nour-el-ain-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
